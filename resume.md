@@ -1,12 +1,12 @@
 # Noor Octavian Anwar
 
-<!-- - +62 8180 3894 993 -->
-- <nooroctaviananwar@gmail.com>
-- Malang, Indonesia
-- [github.com/arrokh](https://github.com/arrokh)
-- [LinkedIn](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
+<!-- - +62 8536 6624 114 -->
+- <hafizmursiddd@gmail.com>
+- Jakarta, Indonesia
+- [github.com/hafizmursidd](https://github.com/hafizmursidd)
+- [LinkedIn](https://www.linkedin.com/in/hafiz-mursid-783a9a209/)
 
-I am a Software Engineer who loves to experiment with crafting tech-based solutions and share with others my learning process. Currently, I am maintaining NEMU, a visual programming environment web-app, to assist people in learning fundamental programming concepts. Outside my work, I participate in various events held by the university, government institution, and tech community to present talks and workshops on software development and startups topics.
+I am a Software Develover who loves to experiment with crafting tech-based solutions and share with others my learning process. Currently, I am maintaining NEMU, a visual programming environment web-app, to assist people in learning fundamental programming concepts. Outside my work, I participate in various events held by the university, government institution, and tech community to present talks and workshops on software development and startups topics.
 
 ## Skills
 
@@ -16,9 +16,9 @@ I am a Software Engineer who loves to experiment with crafting tech-based soluti
 
 ## Education
 
-### <span>Universitas Negeri Malang, Indonesia</span> <span>2014 - 2019</span>
+### <span>Universitas Sriwijaya, Indonesia</span> <span>2017 - 2022</span>
 
-  - Bachelor of Arts - BA, Informatics Education 
+  - Bachelor of Informatics -
 
 ## Experiences
 
